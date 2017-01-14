@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SingleTask</string>
+
+    <string name="activity_a">Activity A</string>
+    <string name="activity_b">Activity B</string>
+    <string name="activity_c">Activity C</string>
+    <string name="activity_d">Activity D</string>
+
+    <string name="goToB">Go To B</string>
+    <string name="goToC">Go To C</string>
+    <string name="goToD">Go To D</string>
+
+    <string name="back">Back</string>
+    <string name="buttonRelaunch">Relaunch B</string>
+    <string name="activity_review">Notice : onCreate() called in normal fashion</string>
+    <string name="activity_updated_review">Notice : onNewIntent() called after relaunch the activity B \n
+    Also Activity C and D cleared from stack</string>
+</resources>

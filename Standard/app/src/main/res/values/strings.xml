@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Standard</string>
+
+    <string name="activity_a">Activity A</string>
+    <string name="activity_b">Activity B</string>
+    <string name="activity_c">Activity C</string>
+    <string name="activity_d">Activity D</string>
+
+    <string name="goToB">Go To B</string>
+    <string name="goToC">Go To C</string>
+    <string name="goToD">Go To D</string>
+
+    <string name="finish">finish</string>
+    <string name="activity_review">Notice : onCreate() called in normal fashion</string>
+</resources>
